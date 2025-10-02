@@ -1,0 +1,19 @@
+# 프롬프트 엔지니어링 교재 필수 라이브러리
+# 설치 방법: pip install -r requirement.txt
+langchain==0.3.21
+langchain-core==0.3.46
+langchain-community==0.3.20
+
+langchain-openai==0.3.9
+langchain-anthropic==0.3.10
+langchain-google-genai==2.1.0
+
+langgraph==0.3.18
+langsmith==0.3.18
+openai==1.67.0
+
+python-dotenv==1.1.1
+pydantic==2.10.6
+
+jupyter==1.1.1
+notebook==7.3.3
