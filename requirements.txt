@@ -6,11 +6,15 @@ langchain-community==0.3.20
 
 langchain-openai==0.3.9
 langchain-anthropic==0.3.10
-langchain-google-genai==2.1.0
+langchain-google-genai==2.0.5
 
 langgraph==0.3.18
 langsmith==0.3.18
 openai==1.67.0
+anthropic
+httpx==0.28.1
+requests==2.32.4
+google-ai-generativelanguage==0.6.15
 
 python-dotenv==1.1.1
 pydantic==2.10.6
